@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I'm Quan Pham<br><br>- 🔭 I’m working as a Research Assistant at Florida State University<br>- 📚 I'm currently learning compiler optimization and web development<br>- ⚡ In my free time I hear podcasts and learn new programming languages</p>
+<p align="left">I'm Quan Pham<br><br>- 🔭 I’m working as a Research Assistant at Florida State University<br>- 📚 I'm currently learning compiler optimization and web development<br>- ⚡ In my free time I listen to podcasts and learn new programming languages</p>
 
 ###
 
@@ -46,4 +46,10 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=mquan1409&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+<h3 align="left">Credits</h3>
+
+<div align="left">
+This profile was made using Mauro De Souza's awesome profile readme generator!<a href="https://github.com/maurodesouza/profile-readme-generator">Check it out</a>
 </div>
